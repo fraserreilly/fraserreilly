@@ -10,7 +10,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## About me
-- 🔭 &nbsp;I’m currently working on [net worth](https://github.com/fraserreilly/net-worth), a data-driven fullstack application to visualize player cost to performance in the NBA.
+- 🔭 &nbsp;I’m currently working on [net worth](https://github.com/fraserreilly/net-worth), a data-driven fullstack application to visualize player cost to performance in the NBA
 - 🌱 &nbsp;I’m currently learning React
 - 👨‍💻 &nbsp;Read more about me and my projects at [work in progress]()
 - ⚡ &nbsp;Fun fact: I use to compete in multiple esports
